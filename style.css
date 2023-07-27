@@ -1,0 +1,39 @@
+.gradient {
+    background: linear-gradient(90deg, #fff7ad, #ffa9f9);
+}
+
+
+
+
+.t-text>h1 {
+    color: #ac5794;
+}
+
+.t-text p {
+    color: #ff914d;
+}
+
+
+
+.skill {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    color: #ff914d;
+}
+
+#contact {
+    background-color: #e4cee3;
+}
+
+.cnnct {
+    color: #e5a6e1;
+    text-align: center;
+}
+
+.allg {
+    color: #e5a6e1;
+    text-align: center;
+}
